@@ -1,3 +1,18 @@
+Projeto de estudos.
+Primeiros passos:
+	Abrir o Power Shell
+	Colocar os comandos:
+	1 - cd Documents/Projetos
+	2 - npx create-react-app sitemern
+	3 - cd sitemern
+	4 - npm i --save react-router-dom
+	5 - npm i --save @material-ui/core
+	6 - npm i --save @material-ui/icons
+	7 - npm i --save @material-ui/lab
+	8 - code .
+	
+	abre o visual studio code.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

@@ -1,13 +1,12 @@
-//cSpell:Ignore Inicio, Início
+//cSpell:Ignore Inicio, Início, Cabecalho
 import React from 'react'
-import { Typography } from '@material-ui/core'
+import Cabecalho from '../../components/Cabecalho'
+//import { Typography } from '@material-ui/core'
 
 export default function Inicio(){
     return(
         <div>
-            <Typography variant='h1'>
-                Início
-            </Typography>
+            <Cabecalho />
         </div>
     )
 }
